@@ -1,6 +1,9 @@
 *{
-      background-image: url("http://minimal-wallpapers.com/wp-content/uploads/2015/09/bulb-balloon-minimalist-wallpaper-light.png");
-      background-size: 100%;
+      background: url("http://minimal-wallpapers.com/wp-content/uploads/2015/09/bulb-balloon-minimalist-wallpaper-light.png") no-repeat center center fixed;
+      -webkit-background-size: cover;
+      -moz-background-size: cover;
+      -o-background-size: cover;
+      background-size: cover;
 }
 h1 {
      font-family: 'Superclarendon';
