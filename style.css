@@ -5,6 +5,10 @@
       -o-background-size: cover;
       background-size: cover;
 }
+
+.content {
+      background-color: rgba(0,0,0,0.4);
+}
 h1 {
      font-family: 'Superclarendon';
      font-size: 60px; 
