@@ -7,3 +7,10 @@ h1 {
      color: DarkSlateGray;
      top: 20%;           
 }
+
+h2 {
+     font-family: 'Comic Sans Ms';
+     font-size: 30px;
+     color: DarkSlateGray;
+     top: 20%
+}
