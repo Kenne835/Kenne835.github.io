@@ -25,13 +25,12 @@ h3, h4, h5 {
      font-family: 'Superclarendon';
      font-size: 20px;
      font-style: italic;
+     padding: 40px;
      color: DarkSlateGray;
      border-bottom: 1px solid rgba(255, 255, 255, 0.5);
 }
-h3, h4, h5, ul {
-      padding: 40px
-}
-p {
+ul {
       font-family: 'Superclarendon';
       color: DarkSlateGray;
+      padding: 40px;
 }
