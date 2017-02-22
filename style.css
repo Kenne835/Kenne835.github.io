@@ -17,7 +17,7 @@
 h1 {
      font-family: 'Superclarendon';
      font-size: 60px; 
-     color: DarkSlateGray;
+     color: White;
      top: 20%;   
      text-align: center;
 }
@@ -25,7 +25,7 @@ h1 {
 h2 {
      font-family: 'Superclarendon';
      font-size: 20px;
-     color: DarkSlateGray;
+     color: White;
      top: 20%;
      text-align: center;
 }
@@ -34,11 +34,11 @@ h3, h4, h5 {
      font-size: 20px;
      font-style: italic;
      padding: 40px;
-     color: DarkSlateGray;
+     color: White;
      border-bottom: 1px solid rgba(255, 255, 255, 0.5);
 }
 ul {
       font-family: 'Superclarendon';
-      color: DarkSlateGray;
+      color: White;
       padding: 40px;
 }
