@@ -1,9 +1,8 @@
 *{
-      background: url("http://cdn-media-2.lifehack.org/wp-content/files/2013/04/83-1024x768.jpg") no-repeat center center fixed;
-      -webkit-background-size: cover;
-      -moz-background-size: cover;
-      -o-background-size: cover;
-      background-size: cover;
+      background: url("http://cdn-media-2.lifehack.org/wp-content/files/2013/04/83-1024x768.jpg");
+      background-size:     cover;                      
+      background-repeat:   no-repeat;
+      background-position: center center;
 }
 
 h1 {
