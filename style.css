@@ -39,3 +39,9 @@ p {
       color: White;
       padding: 20px;
 }
+.alignleft {
+	float: left;
+}
+.alignright {
+	float: right;
+}
