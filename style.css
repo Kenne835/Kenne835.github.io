@@ -24,6 +24,12 @@ h2 {
      top: 20%;
      text-align: center;
 }
+h3, h3, h5 {
+     font-family: 'Superclarendon';
+     font-size: 20px;
+     color: DarkSlateGray;
+     border-bottom: 1px solid rgba(255, 255, 255, 0.5);
+}
 p {
       font-family: 'Superclarendon';
       color: DarkSlateGray;
