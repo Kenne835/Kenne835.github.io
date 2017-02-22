@@ -25,7 +25,7 @@ h3, h4, h5 {
      font-family: 'Superclarendon';
      font-size: 20px;
      font-style: italic;
-     padding: 20px;
+     padding: 20px
      color: White;
      border-bottom: 1px solid rgba(255, 255, 255, 0.5);
 }
@@ -37,11 +37,4 @@ ul {
 p {
       font-family: 'Superclarendon';
       color: White;
-      padding: 20px;
-}
-.alignleft {
-	float: left;
-}
-.alignright {
-	float: right;
 }
