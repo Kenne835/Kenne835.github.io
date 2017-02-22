@@ -5,15 +5,7 @@
       -o-background-size: cover;
       background-size: cover;
 }
-#content-overlay {
-     position: absolute;
-     background-color: rgba(0,0,0,0.5);
-     top: 0;
-     bottom: 0;
-     height: 100%;
-     width: 100%;
-     z-index: -5;
-}
+
 h1 {
      font-family: 'Superclarendon';
      font-size: 60px; 
